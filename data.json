@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Perseus 'Percy' Jackson",
+        "species/race": "demigod ",
+        "parents": " Poseidon, Sally Jackson",
+        "gender": "Male",
+        "affiliation": "Camp Half-Blood, Olympians, Camp Jupiter, New Rome University"
+    }, 
+    {
+        "name": "Nico di Angelo",
+        "species/race": "demigod ",
+        "parents": "Hades, Maria di Angelo",
+        "gender": "Male",
+        "affiliation": "Camp Half-Blood, Olympians, Camp Jupiter"
+    },
+    {
+        "name": "Annabeth Chase",
+        "species/race": "demigod ",
+        "parents": " Athena, Frederick Chase",
+        "gender": "Female",
+        "affiliation": "Camp Half-Blood, Olympians, Camp Jupiter, New Rome University"
+    },
+    {
+        "name": "Jason Grace",
+        "species/race": "demigod ",
+        "parents": " Jupiter,Beryl Grace",
+        "gender": "Male",
+        "affiliation": "Olympians, Camp Jupiter, Camp Half-Blood"
+    }, 
+    {
+        "name": "Phoebus Apollo",
+        "species/race": "god ",
+        "parents": " Zeus,Leto",
+        "gender": "Male",
+        "affiliation": "Olympians"
+    },
+    {
+        "name": "Thalia Grace",
+        "species/race": "demigod ",
+        "parents": " Zeus,Beryl Grace",
+        "gender": "Female",
+        "affiliation": "Olympians, Hunters of Artemis"
+    },
+    {
+        "name": "Clarisse La Rue",
+        "species/race": "demigod ",
+        "parents": " Ares,Ms. La Rue",
+        "gender": "Female",
+        "affiliation": "Olympians, Camp Half-blood"
+    },
+    {
+        "name": "Bianca di Angelo",
+        "species/race": "demigod ",
+        "parents": " Hades, Maria di Angelo",
+        "gender": "Female",
+        "affiliation": "Olympians,Artemis"
+    },
+    {
+        "name": "Odysseus",
+        "species/race": "human",
+        "parents": "Laertes , Anticleia",
+        "gender": "Male",
+        "affiliation": "Ithaca"
+    },
+    {
+        "name": "Orpheus",
+        "species/race": "demigod",
+        "parents": "Oeagrus, Calliope",
+        "gender": "Male",
+        "affiliation": "Agronauts"
+    }
+]
