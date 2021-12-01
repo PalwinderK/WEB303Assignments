@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Perseus 'Percy' Jackson",
+        "species/race": "demigod ",
+        "parents": " Poseidon, Sally Jackson",
+        "birthday": "1993-08-18",
+        "gender": "Male",
+        "affiliation": "Camp Half-Blood, Olympians, Camp Jupiter, New Rome University"
+    }, 
+    {
+        "name": "Nico di Angelo",
+        "species/race": "demigod ",
+        "parents": "Hades, Maria di Angelo",
+        "birthday": "1932-01-28",
+        "gender": "Male",
+        "affiliation": "Camp Half-Blood, Olympians, Camp Jupiter"
+    },
+    {
+        "name": "Annabeth Chase",
+        "species/race": "demigod ",
+        "parents": " Athena, Frederick Chase",
+        "birthday": "1993-07-12",
+        "gender": "Female",
+        "affiliation": "Camp Half-Blood, Olympians, Camp Jupiter, New Rome University"
+    },
+    {
+        "name": "Jason Grace",
+        "species/race": "demigod ",
+        "parents": " Jupiter,Beryl Grace",
+        "birthday": "1994-07-01",
+        "gender": "Male",
+        "affiliation": "Olympians, Camp Jupiter, Camp Half-Blood"
+    }, 
+    {
+        "name": "Phoebus Apollo",
+        "species/race": "god ",
+        "parents": " Zeus,Leto",
+        "birthday": "00-00-00",
+        "gender": "Male",
+        "affiliation": "Olympians"
+    },
+    {
+        "name": "Thalia Grace",
+        "species/race": "demigod ",
+        "parents": " Zeus,Beryl Grace",
+        "birthday": "1987-12-22",
+        "gender": "Female",
+        "affiliation": "Olympians, Hunters of Artemis"
+    },
+    {
+        "name": "Clarisse La Rue",
+        "species/race": "demigod ",
+        "parents": " Ares,Ms. La Rue",
+        "birthday": "1991-10-31",
+        "gender": "Female",
+        "affiliation": "Olympians, Camp Half-blood"
+    },
+    {
+        "name": "Bianca di Angelo",
+        "species/race": "demigod ",
+        "parents": " Hades, Maria di Angelo",
+        "birthday": "1930-02-21",
+        "gender": "Female",
+        "affiliation": "Olympians,Artemis"
+    },
+    {
+        "name": "Odysseus",
+        "species/race": "human",
+        "parents": "Laertes , Anticleia",
+        "birthday": "0400-01-01",
+        "gender": "Male",
+        "affiliation": "Ithaca"
+    },
+    {
+        "name": "Orpheus",
+        "species/race": "demigod",
+        "parents": "Oeagrus, Calliope",
+        "birthday": "0100-01-01",
+        "gender": "Male",
+        "affiliation": "Agronauts"
+    }
+]
